@@ -8,4 +8,5 @@ https://hiroshiba.github.io/girl_friend_factory/index.html
 
 [全平台“直播监控室”](http://live.yj1211.work/index/home/areas)
 
+[iMyShare实用软件导航](https://imyshare.com/)
 [人人都能拥有弹幕视频网站](https://github.com/Quandong-Zhang/banguimi-website)
