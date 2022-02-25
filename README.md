@@ -6,4 +6,6 @@
 生成二次元女友图片（但是我不会用）项目开源：
 https://hiroshiba.github.io/girl_friend_factory/index.html
 
+[全平台“直播监控室”](http://live.yj1211.work/index/home/areas)
+
 [人人都能拥有弹幕视频网站](https://github.com/Quandong-Zhang/banguimi-website)
