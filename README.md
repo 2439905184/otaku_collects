@@ -12,3 +12,4 @@
 
 * [人人都能拥有弹幕视频网站](https://github.com/Quandong-Zhang/banguimi-website)
 * [lorefree去中心化电子书分享网站](https://ebook2.lorefree.com/)
+* [书栈网，程序员，it，互联网](https://www.bookstack.cn/)
