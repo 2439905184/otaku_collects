@@ -15,4 +15,5 @@
 * [zlibrary 世界图书馆 自动登录](https://1lib.domains)
 * [zlibrary 世界图书馆](https://z-lib.org/)
 * [elib.cc 每天下载一本电子书](https://elib.cc/）
-* [书栈网，程序员，it，互联网](https://www.bookstack.cn/)
+* [书栈网，程序员，it，互联网](https://www.bookstack.cn/)\
+* [国家中小学智慧教育平台](www.zxx.edu.cn)
