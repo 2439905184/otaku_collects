@@ -20,3 +20,4 @@
 * [在线正则](https://regex101.com/)
 * [正则表达式速查表](https://r2coding.com/#/README?id=%e6%ad%a3%e5%88%99%e8%a1%a8%e8%be%be%e5%bc%8f)
 * [Galgame-Engine-Collect](https://github.com/2439905184/Galgame-Engine-Collect)
+* [Theta.tv 去中心化视频平台](https://www.theta.tv/)
